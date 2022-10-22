@@ -6,3 +6,6 @@ My favorite food is Shepard's Pie.
 
 
 I prefer tea.
+
+My favorite color is turquoise.
+
